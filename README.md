@@ -118,7 +118,10 @@ Run the modular cells in main_lstm_drx.ipynb sequentially:
 
 <img width="1078" height="753" alt="Screenshot 2026-07-16 085300" src="https://github.com/user-attachments/assets/4352fee2-18e5-4c42-a7e6-c58ec746e0c1" />
 <img width="1382" height="587" alt="Screenshot 2026-07-09 012423" src="https://github.com/user-attachments/assets/ac0b7b72-fc4b-483f-9643-f6a6737c94e4" />
-<img width="781" height="780" alt="Screenshot 2026-07-09 014516" src="https://github.com/user-attachments/assets/92d2bb82-0ba4-424d-bff6-f7d306619a01" />
+<img width="1551" height="720" alt="Screenshot 2026-07-13 121844" src="https://github.com/user-attachments/assets/58ac8ea8-e1db-4c11-969c-8a1fed0df295" />
+
+<img width="1038" height="612" alt="Screenshot 2026-07-10 000931" src="https://github.com/user-attachments/assets/508fe0fb-48ad-4e10-9b36-29b1ef64899d" />
+
 
 
 
